@@ -22,4 +22,4 @@ jobs:
           # this is a built-in strategy in release-please, see "Action Inputs"
           # for more options
           release-type: simple
-          skip-github-pull-request: true
+          skip-github-pull-request: false
